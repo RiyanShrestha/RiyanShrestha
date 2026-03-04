@@ -5,7 +5,7 @@
 </p>
 
 
-<a href="https://github.com/notrishi-1" target="_blank">
+<a href="[https://github.com/notrishi-1](https://github.com/RiyanShrestha)" target="_blank">
   <img align="right" src="assets/github-logo-opal.png" width="30px">
 </a>
 
