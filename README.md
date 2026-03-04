@@ -26,16 +26,14 @@
     </a>
 </p>
 
-Hi, I’m Rishi, a student at BMS College of Engineering.  
-This GitHub is mainly for my **college projects and submissions**.  
+Hi, I’m Riyan Shrestha, a BCA student currently in my second year.
+This GitHub is mainly where I upload my college projects and programming work.
 
-I’ve worked with **HTML, CSS, JavaScript, Java, Python, and C**.  
+I’ve worked with HTML, Java, Python, and C, and I’m familiar with tools like Git and Linux.
 
-In Python, I’ve built things like image generation scripts, Discord bots, an AI chatbot,  
-an OTP authentication system, auto logging application and some web scraping tools.  
+Currently, I’m working on projects such as a Personal Expense Tracker while also learning more about web development, data structures, and artificial intelligence.
 
-Worked with libraries like Flask, Discord.py, Google APIs, BeautifulSoup, Requests, Pillow,
-Aiohttp and Asyncpraw.
+I enjoy building small projects, experimenting with new technologies, and improving my programming skills.
 
 <!--Pulsating blue border-->
 <p align = "left">
