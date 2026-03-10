@@ -1,6 +1,6 @@
 <p align = "center">
     <a href = "" target = "_blank">
-        <img align = "center" src="assets/cyber.gif" alt="Galaxy GIF">
+        <img align = "center" src="assets/clouds.gif" alt="Galaxy GIF">
     </a>
 </p>
 
