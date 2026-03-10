@@ -1,6 +1,6 @@
 <p align = "center">
     <a href = "" target = "_blank">
-        <img align = "center" src="assets/The Ghost Samurai GIF by PlayStation.gif" alt="Galaxy GIF">
+        <img align = "center" src="assets/jujutsu-kaisen-banner-compressed.gif" alt="Galaxy GIF">
     </a>
 </p>
 
